@@ -21,7 +21,7 @@ const mouseMove=()=>{
     let height = (screenSize.height / 2 / 2 / 2 / 2 / 2) - 10;
     let width = screenSize.width /2 / 2 / 2 / 2 / 2;
     
-    console.log(`Strat mouse move !`);
+    console.log(`Strat mouse move!!`);
 
     for (let x = 0; x < width; x++)
     {
