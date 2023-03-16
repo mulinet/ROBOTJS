@@ -1,0 +1,22 @@
+{
+  "name": "robotjs",
+  "version": "1.0.0",
+  "description": "usage robojs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulinet/ROBOTJS.git"
+  },
+  "author": "mulinet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulinet/ROBOTJS/issues"
+  },
+  "homepage": "https://github.com/mulinet/ROBOTJS#readme",
+  "dependencies": {
+    "@jitsi/robotjs": "^0.6.11"
+  }
+}
